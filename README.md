@@ -6,9 +6,7 @@ A complete reproduction of the paper in [] requires advanced programming knowled
 
 # Example code usage
 
-* Download temperature data from copernicus [ERA5-Land](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land?tab=overview) service in grib format. Download a separate file for each year of interest. Alternatively, here we provide some files for an easier use:
-
-* To get the example code working, move grib files to a folder named GRIB_files, or change the corresponding line of code to your preferred path.
+* Download the temperature data using the provided download_data.py script.
 
 * Run Example-GDD_computation_ERA5_Land notebook to compute daily accumulated GDD data.
 
