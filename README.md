@@ -6,6 +6,19 @@ A complete reproduction of the paper in [] requires advanced programming knowled
 
 # Example code usage
 
+## Requirements
+
+Python 3.x installed with the following libraries
+
+* Numpy
+* Matplotlib
+* Cartopy
+* Datetime
+
+Julia with GRIB.jl library installed
+
+## Instructions
+
 * Download the temperature data from https://cloud.ifisc.uib-csic.es/nextcloud/index.php/s/XEYCJieCNTyywkx or using the provided download_data.py script.
 
 * If manually downloading the data from the nextcloud link, create a folder named GRIB_files into the current directory and move there the grib files (the download_data.py scripts already does this automatically for you).
