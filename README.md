@@ -8,6 +8,8 @@ A complete reproduction of the paper in [] requires advanced programming knowled
 
 * Download the temperature data from https://cloud.ifisc.uib-csic.es/nextcloud/index.php/s/XEYCJieCNTyywkx or using the provided download_data.py script.
 
+* If manually downloading the data from the nextcloud link, create a folder named GRIB_files into the current directory and move there the grib files.
+
 * Run Example-GDD_computation_ERA5_Land notebook to compute daily accumulated GDD data.
 
 * Run Example-Spain_predictions notebook to generate an animation of the accumulated probability of egg hatching in time for the given selected year.
