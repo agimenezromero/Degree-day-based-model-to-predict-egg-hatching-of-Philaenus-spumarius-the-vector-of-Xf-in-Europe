@@ -4,6 +4,8 @@ This repository contains some example codes with the necessary data used to pred
 
 A complete reproduction of the paper in [] requires advanced programming knowledge of different programming languages (Python, R, Julia) and database usage (Copernicus). If you are interested in further development and you have any doubt just feel free to contact me at alex@ifisc.uib-csic.es
 
+We also developed a minimal R package that indicates the user when to apply control actions. It can be found in this [repository](https://github.com/agimenezromero/PSEggHatching)
+
 # Example code usage
 
 ## Requirements
